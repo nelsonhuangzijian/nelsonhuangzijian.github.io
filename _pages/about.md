@@ -57,7 +57,7 @@ The 26th European Conference on Artificial Intelligence
 
 # 🎓 Educations
 - Ph.D. candidate in Computer Science, The University of Auckland, New Zealand, *2023 - Now* <br>
-  (Supervised by Meng-Fen Chiang and Sebastian Link)
+  (Supervised by Meng-Fen Chiang, Kaiqi Zhao and Sebastian Link)
 - M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand, *2021 - 2022* <br>
   (Supervised by Meng-Fen Chiang)
 - B.Sc. in Computer Science, The University of Auckland, New Zealand, *2016 - 2019*
