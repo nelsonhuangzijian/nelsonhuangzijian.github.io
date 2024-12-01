@@ -74,4 +74,4 @@ The 26th European Conference on Artificial Intelligence
 # 💻 Professional Services
 - Program Committee Member: ECAI 2023, EMNLP 2023
 - Journal Reviewer: TOIS
-- External Reviewer: PAKDD 2022
+- External Reviewer: PAKDD 2022, WWW 2025
