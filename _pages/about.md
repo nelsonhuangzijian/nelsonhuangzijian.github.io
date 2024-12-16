@@ -24,6 +24,7 @@ I received the Master of Science degree in computer science (First Class) from t
 My research interests include:
 * Knowledge Graph Representation Learning
 * Knowledge Graph Query Answering
+* Retrieval-augmented generation
 * Natural Language Processing
 
 <!--
