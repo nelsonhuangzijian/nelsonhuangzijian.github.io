@@ -17,15 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the School of Computer Science, the University of Auckland. My supervisors are [Dr. Meng-Fen Chiang](https://ankechiang.github.io/), [Dr. Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/) and [Prof. Sebastian Link](https://profiles.auckland.ac.nz/s-link).
-
-I received the Master of Science degree in computer science (First Class) from the University of Auckland in 2022. During my Master's study, I researched multi-hop logical query reasoning over hierarchical knowledge graphs supervised by Dr. Meng-Fen Chiang and [Assoc.Prof. Wang-Chien Lee](https://sites.psu.edu/wlee/) (Penn State University). 
-
-My research interests include:
-* Knowledge Graph Representation Learning
-* Knowledge Graph Query Answering
-* Retrieval-augmented Generation
-* Natural Language Processing
+I am a Ph.D. candidate at the School of Computer Science, University of Auckland. My research focuses on unifying large language models and knowledge graphs, complex logical query answering over knowledge graphs, and natural language processing. I received a Master of Science degree in Computer Science (First Class) from the University of Auckland in 2022. During my Master's studies, I researched complex logical query reasoning over hierarchical knowledge graphs, supervised by [Meng-Fen Chiang](https://ankechiang.github.io/), and collaborated with [Wang-Chien Lee](https://sites.psu.edu/wlee/) from Penn State University.
 
 <!--
 <a href='https://scholar.google.com/citations?user=CG6rNcwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -58,7 +50,7 @@ The 26th European Conference on Artificial Intelligence
 
 # 🎓 Educations
 - Ph.D. candidate in Computer Science, The University of Auckland, New Zealand, *2023 - Now* <br>
-  (Supervised by Meng-Fen Chiang, Kaiqi Zhao and Sebastian Link)
+  (Supervised by Meng-Fen Chiang, [Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/) and [Sebastian Link](https://profiles.auckland.ac.nz/s-link))
 - M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand, *2021 - 2022* <br>
   (Supervised by Meng-Fen Chiang)
 - B.Sc. in Computer Science, The University of Auckland, New Zealand, *2016 - 2019*
