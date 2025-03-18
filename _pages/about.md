@@ -17,7 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the School of Computer Science, University of Auckland. My research focuses on unifying large language models and knowledge graphs and natural language processing. I received a Master of Science degree in Computer Science (First Class) from the University of Auckland in 2022. During my Master's studies, I researched complex logical query reasoning over hierarchical knowledge graphs, supervised by [Meng-Fen Chiang](https://ankechiang.github.io/), and collaborated with [Wang-Chien Lee](https://sites.psu.edu/wlee/) from Penn State University.
+I am a Ph.D. candidate at the School of Computer Science, University of Auckland. I received a Master of Science degree in Computer Science (First Class) from the University of Auckland in 2022. During my Master's studies, I researched complex logical query reasoning over hierarchical knowledge graphs, supervised by [Meng-Fen Chiang](https://ankechiang.github.io/), and collaborated with [Wang-Chien Lee](https://sites.psu.edu/wlee/) from Penn State University.
+
+My research interests include:
+- Knowledge graph representation learning
+- Complex logical query answering
+- LLM-augmented knowledge graphs
 
 <!--
 <a href='https://scholar.google.com/citations?user=CG6rNcwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
