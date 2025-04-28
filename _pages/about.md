@@ -24,9 +24,7 @@ My research interests include:
 - Complex logical query answering
 - LLM-augmented knowledge graphs
 
-<!--
-<a href='https://scholar.google.com/citations?user=CG6rNcwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
--->
+
 
 # 📝 Publications 
 
