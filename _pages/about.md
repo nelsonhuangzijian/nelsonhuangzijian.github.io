@@ -52,13 +52,14 @@ The 26th European Conference on Artificial Intelligence
 
 
 # 🎓 Educations
-- Ph.D. candidate in Computer Science, The University of Auckland, New Zealand, *2023 - Now* <br>
+- Ph.D. candidate in Computer Science, University of Auckland, New Zealand, *2023 - Now* <br>
   (Supervised by Meng-Fen Chiang, [Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/) and [Sebastian Link](https://profiles.auckland.ac.nz/s-link))
-- M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand, *2021 - 2022* <br>
+- M.Sc. (First Class Honours) in Computer Science, University of Auckland, New Zealand, *2021 - 2022* <br>
   (Supervised by Meng-Fen Chiang)
-- B.Sc. in Computer Science, The University of Auckland, New Zealand, *2016 - 2019*
+- B.Sc. in Computer Science, University of Auckland, New Zealand, *2016 - 2019*
 
 # 💼 Work Experience
+- Graduate Teaching Assistant, University of Auckland, New Zealand, *2024.07 - 2024.11*
 - Intern, Guangzhou Urban Planning & Design Survey Research Institute, China, *2022.03 - 2022.08*
 
 # 📖 Teaching
@@ -70,7 +71,7 @@ The 26th European Conference on Artificial Intelligence
 # 💻 Professional Services
 - Program Committee Member: ECAI 2023, EMNLP 2023
 - Journal Reviewer: TOIS
-- External Reviewer: PAKDD 2022, WWW 2025
+- External Reviewer: PAKDD 2022/2025, WWW 2025
 
 # 🌐
 <a href="https://info.flagcounter.com/Z83Z"><img src="https://s01.flagcounter.com/countxl/Z83Z/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
