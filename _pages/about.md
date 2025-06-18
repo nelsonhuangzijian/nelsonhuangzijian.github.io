@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the School of Computer Science, University of Auckland. I received a Master of Science degree in Computer Science (First Class) from the University of Auckland in 2022. During my Master's studies, I researched complex logical query reasoning over hierarchical knowledge graphs, supervised by [Meng-Fen Chiang](https://ankechiang.github.io/), and collaborated with [Wang-Chien Lee](https://sites.psu.edu/wlee/) from Penn State University.
+I am a Ph.D. candidate at the School of Computer Science, University of Auckland. I received my Master of Science degree in Computer Science (First Class) from the University of Auckland in 2022. During my Master's studies, I researched complex logical query reasoning over hierarchical knowledge graphs, supervised by [Meng-Fen Chiang](https://ankechiang.github.io/), and collaborated with [Wang-Chien Lee](https://sites.psu.edu/wlee/) from Penn State University.
 
 My research interests include:
-- Knowledge graph representation learning
+- Graph representation learning
 - Complex logical query answering
-- LLM-augmented knowledge graphs
+- LLM reasoning
 
 
 
@@ -53,7 +53,7 @@ The 26th European Conference on Artificial Intelligence
 
 # 🎓 Educations
 - Ph.D. candidate in Computer Science, University of Auckland, New Zealand, *2023 - Now* <br>
-  (Supervised by Meng-Fen Chiang, [Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/) and [Sebastian Link](https://profiles.auckland.ac.nz/s-link))
+  (Supervised by Meng-Fen Chiang, [Kaiqi Zhao](https://kaiqizhao.github.io/) and [Sebastian Link](https://profiles.auckland.ac.nz/s-link))
 - M.Sc. (First Class Honours) in Computer Science, University of Auckland, New Zealand, *2021 - 2022* <br>
   (Supervised by Meng-Fen Chiang)
 - B.Sc. in Computer Science, University of Auckland, New Zealand, *2016 - 2019*
