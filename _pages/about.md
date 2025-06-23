@@ -43,7 +43,7 @@ The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 </div>
 </div>
 
-- `ACL Findings 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf) <br>
+- `ACL 2024 (Findings)` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf) <br>
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**.<br>
 Findings of The 62nd Annual Meeting of the Association for Computational Linguistics
 - `ECAI 2023` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach) <br>
