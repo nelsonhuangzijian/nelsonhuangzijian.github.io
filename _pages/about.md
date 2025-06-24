@@ -57,10 +57,12 @@ The 26th European Conference on Artificial Intelligence
 - B.Sc. in Computer Science, University of Auckland, New Zealand, *2016 - 2019*
 
 # 💼 Work Experience
+- Professional Teaching Fellow, University of Auckland, New Zealand, *2025.07 - 2025.11*
 - Graduate Teaching Assistant, University of Auckland, New Zealand, *2024.07 - 2024.11*
 - Intern, Guangzhou Urban Planning & Design Survey Research Institute, China, *2022.03 - 2022.08*
 
 # 📖 Teaching
+- Algorithms for Massive Data (COMPSCI 753), Instructor, S2 2025, University of Auckland
 - Algorithms for Massive Data (COMPSCI 753), Teaching Assistant, S2 2024, University of Auckland
 
 # 🎖 Honors and Awards
