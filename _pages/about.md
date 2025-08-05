@@ -48,9 +48,9 @@ The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs](https://arxiv.org/abs/2508.01273)
 
-Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao
+Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao.
 
-Arxiv
+arXiv:2508.01273
 
 </div>
 </div>
