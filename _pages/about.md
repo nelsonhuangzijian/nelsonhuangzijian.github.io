@@ -27,19 +27,6 @@ My research interests include:
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/line.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs](https://arxiv.org/abs/2508.01273)
-
-Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao
-
-Arxiv
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2022</div><img src='images/line.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,6 +39,19 @@ The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [**Project**](https://github.com/nelsonhuangzijian/LinE)
 - [WN18RR Hierarchical KG benchmark](https://github.com/nelsonhuangzijian/WN18RR-QA)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/KCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs](https://arxiv.org/abs/2508.01273)
+
+Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao
+
+Arxiv
+
 </div>
 </div>
 
