@@ -43,7 +43,7 @@ The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/KCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/kcr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs](https://arxiv.org/abs/2508.01273)
