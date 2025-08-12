@@ -27,6 +27,9 @@ My research interests include:
 
 
 # 📝 Publications 
+## Graph Representation and Reasoning
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2022</div><img src='images/line.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,6 +44,8 @@ The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 - [WN18RR Hierarchical KG benchmark](https://github.com/nelsonhuangzijian/WN18RR-QA)
 </div>
 </div>
+
+## Natural Language Processing
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/kcr.jpg' alt="sym" width="100%"></div></div>
