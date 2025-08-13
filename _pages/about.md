@@ -86,8 +86,8 @@ The 26th European Conference on Artificial Intelligence
 - University of Auckland Doctoral Scholarships, *2023*
 
 # 💻 Professional Services
-- Program Committee Member: ECAI 2023, EMNLP 2023
-- Journal Reviewer: TOIS
+- Conference Reviewer: ECAI 2023, EMNLP 2023
+- Journal Reviewer: ACM Transactions on Information Systems (TOIS)
 - External Reviewer: PAKDD 2022/2025, WWW 2025
 
 <hr />
