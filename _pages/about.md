@@ -79,8 +79,8 @@ The 26th European Conference on Artificial Intelligence
 - Intern, Guangzhou Urban Planning & Design Survey Research Institute, China, *2022.03 - 2022.08*
 
 # 📖 Teaching
-- Algorithms for Massive Data (COMPSCI 753), Instructor, S2 2025, University of Auckland
-- Algorithms for Massive Data (COMPSCI 753), Teaching Assistant, S2 2024, University of Auckland
+- Lecturer (Instructor), Algorithms for Massive Data (COMPSCI 753), S2 2025, University of Auckland
+- Teaching Assistant, Algorithms for Massive Data (COMPSCI 753), S2 2024, University of Auckland
 
 # 🎖 Honors and Awards
 - University of Auckland Doctoral Scholarships, *2023*
