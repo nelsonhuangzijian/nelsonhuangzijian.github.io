@@ -79,16 +79,16 @@ The 26th European Conference on Artificial Intelligence
 - Intern, Guangzhou Urban Planning & Design Survey Research Institute, China, *2022.03 - 2022.08*
 
 # 📖 Teaching
-- Lecturer (Instructor), Algorithms for Massive Data (COMPSCI 753), S2 2025, University of Auckland
+- Lecturer, Algorithms for Massive Data (COMPSCI 753), S2 2025, University of Auckland
 - Teaching Assistant, Algorithms for Massive Data (COMPSCI 753), S2 2024, University of Auckland
 
 # 🎖 Honors and Awards
 - University of Auckland Doctoral Scholarships, *2023*
 
 # 💻 Professional Services
-- Conference Reviewer: ECAI 2023, EMNLP 2023
+- Conference Reviewer: ECAI, EMNLP
 - Journal Reviewer: ACM Transactions on Information Systems (TOIS)
-- External Reviewer: PAKDD 2022/2025, WWW 2025
+- External Reviewer: PAKDD, WWW
 
 <hr />
 <a href="https://info.flagcounter.com/Z83Z"><img src="https://s01.flagcounter.com/countxl/Z83Z/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
