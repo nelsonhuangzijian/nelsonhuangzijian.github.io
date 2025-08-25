@@ -26,7 +26,7 @@ My research interests include:
 
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 ## Graph Representation and Reasoning
 
 
@@ -67,16 +67,6 @@ Findings of The 62nd Annual Meeting of the Association for Computational Linguis
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**.<br>
 The 26th European Conference on Artificial Intelligence
 
-
-# 🎓 Educations
-- Ph.D. candidate in Computer Science, University of Auckland, New Zealand, *2023 - Now* <br>
-- M.Sc. (First Class Honours) in Computer Science, University of Auckland, New Zealand, *2021 - 2022* <br>
-- B.Sc. in Computer Science, University of Auckland, New Zealand, *2016 - 2019*
-
-# 💼 Work Experience
-- Professional Teaching Fellow, University of Auckland, New Zealand, *2025.07 - 2025.11*
-- Graduate Teaching Assistant, University of Auckland, New Zealand, *2024.07 - 2024.11*
-- Intern, Guangzhou Urban Planning & Design Survey Research Institute, China, *2022.03 - 2022.08*
 
 # 📖 Teaching
 - Lecturer, Algorithms for Massive Data (COMPSCI 753), S2 2025, University of Auckland
