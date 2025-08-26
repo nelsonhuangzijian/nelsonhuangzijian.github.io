@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Computer Science at the University of Auckland, advised by Dr. [Meng-Fen Chiang](https://ankechiang.github.io/), Prof. [Kaiqi Zhao](https://kaiqizhao.github.io/), and Prof. [Sebastian Link](https://profiles.auckland.ac.nz/s-link). I received my Master of Science (First Class Honours) in Computer Science from the University of Auckland. During my Master’s studies, I conducted research on complex logical query reasoning over hierarchical knowledge graphs, under the supervision of Dr. Meng-Fen Chiang and in collaboration with Assoc. Prof. [Wang-Chien Lee](https://sites.psu.edu/wlee/) from Pennsylvania State University.
+
+I am a Ph.D. candidate in Computer Science at the University of Auckland, advised by Dr. [Meng-Fen Chiang](https://ankechiang.github.io/), Prof. [Kaiqi Zhao](https://kaiqizhao.github.io/), and Prof. [Sebastian Link](https://profiles.auckland.ac.nz/s-link). I received my Master of Science (First Class Honours) in Computer Science from the University of Auckland, under the supervision of Dr. Meng-Fen Chiang and in collaboration with Assoc. Prof. [Wang-Chien Lee](https://sites.psu.edu/wlee/) from Pennsylvania State University. I completed my Bachelor of Science degree at the University of Auckland in 2019.
 
 My research interests include:
 - Graph representation and reasoning
