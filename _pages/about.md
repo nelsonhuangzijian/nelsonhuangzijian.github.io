@@ -29,7 +29,7 @@ My research interests include:
 
 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 ## Graph Representation and Reasoning
 
 
@@ -63,6 +63,9 @@ arXiv:2508.01273
 </div>
 </div>
 
+- `EMNLP 2025` [A Survey of Pun Generation: Datasets, Evaluations and Methodologies](https://arxiv.org/pdf/2507.04793) <br>
+Yuchen Su, Yonghua Zhu, Ruofan Wang, **Zijian Huang**, Diana Benavides-Prado, Michael Witbrock.<br>
+Findings of The 2025 Conference on Empirical Methods in Natural Language Processing
 - `ACL 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf) <br>
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**.<br>
 Findings of The 62nd Annual Meeting of the Association for Computational Linguistics
