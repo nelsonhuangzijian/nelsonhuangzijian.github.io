@@ -39,9 +39,9 @@ My research interests include:
 [LinE: Logical Query Reasoning over Hierarchical Knowledge Graph](https://www.researchgate.net/publication/362279679_LinE_Logical_Query_Reasoning_over_Hierarchical_Knowledge_Graph
 )
 
-**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee.
+**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee
 
-The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+KDD 2022
 
 [**Project**](https://github.com/nelsonhuangzijian/LinE)
 - [WN18RR Hierarchical KG benchmark](https://github.com/nelsonhuangzijian/WN18RR-QA)
@@ -51,12 +51,12 @@ The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 ## Natural Language Processing
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/kcr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/kcr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs](https://arxiv.org/abs/2508.01273)
+[KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs](https://arxiv.org/pdf/2508.01273)
 
-Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao.
+Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao
 
 arXiv:2508.01273
 
@@ -64,14 +64,14 @@ arXiv:2508.01273
 </div>
 
 - `EMNLP 2025` [A Survey of Pun Generation: Datasets, Evaluations and Methodologies](https://arxiv.org/pdf/2507.04793) <br>
-Yuchen Su, Yonghua Zhu, Ruofan Wang, **Zijian Huang**, Diana Benavides-Prado, Michael Witbrock.<br>
-Findings of The 2025 Conference on Empirical Methods in Natural Language Processing
+Yuchen Su, Yonghua Zhu, Ruofan Wang, **Zijian Huang**, Diana Benavides-Prado, Michael Witbrock<br>
+EMNLP (Findings) 2025
 - `ACL 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf) <br>
-Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**.<br>
-Findings of The 62nd Annual Meeting of the Association for Computational Linguistics
+Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**<br>
+ACL (Findings) 2024
 - `ECAI 2023` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach) <br>
-Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**.<br>
-The 26th European Conference on Artificial Intelligence
+Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**<br>
+ECAI 2023
 
 
 # 📖 Teaching
