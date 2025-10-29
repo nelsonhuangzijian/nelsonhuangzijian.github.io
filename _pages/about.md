@@ -41,7 +41,7 @@ My research interests include:
 
 **Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee
 
-KDD 2022
+The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [**Project**](https://github.com/nelsonhuangzijian/LinE)
 - [WN18RR Hierarchical KG benchmark](https://github.com/nelsonhuangzijian/WN18RR-QA)
@@ -65,13 +65,13 @@ arXiv:2508.01273
 
 - `EMNLP 2025` [A Survey of Pun Generation: Datasets, Evaluations and Methodologies](https://arxiv.org/pdf/2507.04793) <br>
 Yuchen Su, Yonghua Zhu, Ruofan Wang, **Zijian Huang**, Diana Benavides-Prado, Michael Witbrock<br>
-EMNLP (Findings) 2025
+Findings of the Association for Computational Linguistics: EMNLP 2025
 - `ACL 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf) <br>
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**<br>
-ACL (Findings) 2024
+Findings of the Association for Computational Linguistics: ACL 2024
 - `ECAI 2023` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach) <br>
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**<br>
-ECAI 2023
+26th European Conference on Artificial Intelligence
 
 
 # 📖 Teaching
