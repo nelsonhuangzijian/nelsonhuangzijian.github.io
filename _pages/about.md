@@ -42,7 +42,7 @@ My research interests include:
 
 The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[**Code**](https://github.com/nelsonhuangzijian/LinE)<strong> | </strong>[**Benchmark**](https://github.com/nelsonhuangzijian/WN18RR-QA)
+[**Code**](https://github.com/nelsonhuangzijian/LinE)<strong> | </strong>[**Benchmark**](https://github.com/nelsonhuangzijian/WN18RR-QA) <strong><span class='show_paper_citations' data='CG6rNcwAAAAJ:eQOLeE2rZwMC'></span></strong>
 </div>
 </div>
 
