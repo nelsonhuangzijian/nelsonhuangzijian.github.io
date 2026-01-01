@@ -17,42 +17,77 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Ph.D. candidate in Computer Science at the [University of Auckland](https://www.auckland.ac.nz/), advised by Dr. [Meng-Fen Chiang](https://ankechiang.github.io/), Prof. [Kaiqi Zhao](https://kaiqizhao.github.io/), and Prof. [Sebastian Link](https://profiles.auckland.ac.nz/s-link).
+
+I received my Master of Science (First Class Honours) degree in Computer Science from the University of Auckland in 2022, supervised by Dr. Meng-Fen Chiang and in collaboration with Assoc. Prof. [Wang-Chien Lee](https://sites.psu.edu/wlee/) of Pennsylvania State University. I completed my Bachelor of Science degree at the University of Auckland in 2019.
+
+My research interests include:
+- Graph representation and reasoning
+- Natural language processing
+- Large language model
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Selected Publications
+(See [Full Publication List](https://scholar.google.com/citations?hl=en&user=CG6rNcwAAAAJ))
+## Graph Representation and Reasoning
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2022</div><img src='images/line.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LinE: Logical Query Reasoning over Hierarchical Knowledge Graph](https://dl.acm.org/doi/epdf/10.1145/3534678.3539338)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+
+[**Code**](https://github.com/nelsonhuangzijian/LinE)<strong> | </strong>[**Benchmark**](https://github.com/nelsonhuangzijian/WN18RR-QA)
+<!-- <strong><span class='show_paper_citations' data='CG6rNcwAAAAJ:eQOLeE2rZwMC'></span></strong> -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Natural Language Processing
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/kcr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs](https://arxiv.org/pdf/2508.01273)
+
+Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao
+
+Preprint arXiv:2508.01273
+</div>
+</div>
+
+
+- `ACL 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf) <br>
+Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**<br>
+Findings of the Association for Computational Linguistics: ACL 2024
+- `ECAI 2023` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach) <br>
+Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**<br>
+The 26th European Conference on Artificial Intelligence
+
+
+# 📖 Teaching
+- Lecturer, Algorithms for Massive Data (COMPSCI 753), S2 2025, University of Auckland
+- Teaching Assistant, Algorithms for Massive Data (COMPSCI 753), S2 2024, University of Auckland
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- University of Auckland Doctoral Scholarships, *2023*
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Professional Services
+### Conference Reviewer
+- European Conference on Artificial Intelligence (ECAI)
+- Conference on Empirical Methods in Natural Language Processing (EMNLP)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+### Journal Reviewer
+- ACM Transactions on Information Systems (TOIS)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+### External Reviewer
+- Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
+- ACM Web Conference (WWW)
+
+<hr />
+<a href="https://info.flagcounter.com/Z83Z"><img src="https://s01.flagcounter.com/map/Z83Z/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
