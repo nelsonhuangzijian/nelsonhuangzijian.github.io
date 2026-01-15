@@ -30,45 +30,23 @@ My research interests include:
 
 # 📝 Selected Publications
 (See [Full Publication List](https://scholar.google.com/citations?hl=en&user=CG6rNcwAAAAJ))
-## Graph Representation and Reasoning
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2022</div><img src='images/line.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LinE: Logical Query Reasoning over Hierarchical Knowledge Graph](https://dl.acm.org/doi/epdf/10.1145/3534678.3539338)
-
-**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee
-
-The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
-
-[**Code**](https://github.com/nelsonhuangzijian/LinE)<strong> | </strong>[**Benchmark**](https://github.com/nelsonhuangzijian/WN18RR-QA)
-<!-- <strong><span class='show_paper_citations' data='CG6rNcwAAAAJ:eQOLeE2rZwMC'></span></strong> -->
-</div>
-</div>
-
-## Natural Language Processing
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/kcr.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs](https://arxiv.org/pdf/2508.01273)
-
-Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao
-
+- `WWW 2026` Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating  
+Ruofan Wang, **Zijian Huang**, Qiqi Wang, Yuchen Su, Robert Amor, Kaiqi Zhao, Meng-Fen Chiang  
+The ACM Web Conference 2026
+- `Preprint 2025` [KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs](https://arxiv.org/pdf/2508.01273)  
+Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao  
 Preprint arXiv:2508.01273
-</div>
-</div>
-
-
-- `ACL 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf) <br>
-Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**<br>
+- `ACL 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf)  
+Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**  
 Findings of the Association for Computational Linguistics: ACL 2024
-- `ECAI 2023` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach) <br>
-Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**<br>
+- `ECAI 2023` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach)  
+Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**  
 The 26th European Conference on Artificial Intelligence
-
+- `KDD 2022` [LinE: Logical Query Reasoning over Hierarchical Knowledge Graph](https://dl.acm.org/doi/epdf/10.1145/3534678.3539338)  
+**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee  
+The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining  
+[**Code**](https://github.com/nelsonhuangzijian/LinE)<strong> | </strong>[**Benchmark**](https://github.com/nelsonhuangzijian/WN18RR-QA)
 
 # 📖 Teaching
 - Lecturer, Algorithms for Massive Data (COMPSCI 753), S2 2025, University of Auckland
