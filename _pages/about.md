@@ -23,9 +23,9 @@ I am a Ph.D. candidate in Computer Science at the [University of Auckland](https
 I received my Master of Science (First Class Honours) degree in Computer Science from the University of Auckland in 2022, supervised by Dr. Meng-Fen Chiang and in collaboration with Assoc. Prof. [Wang-Chien Lee](https://sites.psu.edu/wlee/) of Pennsylvania State University. I completed my Bachelor of Science degree at the University of Auckland in 2019.
 
 My research interests include:
-- Graph representation and reasoning
-- Natural language processing
-- Large language model
+- Knowledge Representation and Reasoning
+- Multimodal Artificial Intelligence
+- Large Language Models
 
 
 # 📝 Selected Publications
@@ -33,7 +33,7 @@ My research interests include:
 Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Jiamou Liu, Yuan Fang, Michael Witbrock, Kaiqi Zhao  
 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics  
 [[arXiv](https://arxiv.org/pdf/2508.01273)]
-- `WWW 2026` Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating  
+- `WWW 2026` [Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating](https://dl.acm.org/doi/epdf/10.1145/3774904.3792481)  
 Ruofan Wang, **Zijian Huang**, Qiqi Wang, Yuchen Su, Robert Amor, Kaiqi Zhao, Meng-Fen Chiang  
 The ACM Web Conference 2026  
 [[Code](https://github.com/vandawn/RMAR_Analogy)]

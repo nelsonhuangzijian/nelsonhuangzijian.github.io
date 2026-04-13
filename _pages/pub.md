@@ -14,7 +14,7 @@ Proceedings of the 64th Annual Meeting of the Association for Computational Ling
 - **Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating**  
 Ruofan Wang, **Zijian Huang**, Qiqi Wang, Yuchen Su, Robert Amor, Kaiqi Zhao, Meng-Fen Chiang  
 The ACM Web Conference 2026 (WWW 2026)  
-[[Code](https://github.com/vandawn/RMAR_Analogy)]
+[[PDF](https://dl.acm.org/doi/epdf/10.1145/3774904.3792481)][[Code](https://github.com/vandawn/RMAR_Analogy)]
 - **Words at Play: Benchmarking Audio Pun Understanding in Large Audio-Language Models**    
 Yuchen Su, Shaoxin Zhong, Yonghua Zhu, Ruofan Wang, **Zijian Huang**, Qiqi Wang, Na Zhao, Diana Benavides-Prado, Michael Witbrock  
 arXiv preprint  
