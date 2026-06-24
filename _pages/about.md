@@ -29,10 +29,10 @@ My research interests include:
 
 
 # 📝 Selected Publications
-- `ACL 2026` Disentangling Reasoning Logic to Resolve Explicit Knowledge Conflicts  
+- `ACL 2026` [Disentangling Reasoning Logic to Resolve Explicit Knowledge Conflicts](https://aclanthology.org/2026.acl-long.1451.pdf)  
 Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Jiamou Liu, Yuan Fang, Michael Witbrock, Kaiqi Zhao  
-Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics  
-[[arXiv](https://arxiv.org/pdf/2508.01273)]
+The 64th Annual Meeting of the Association for Computational Linguistics  
+[[Code](https://github.com/zhengxianda/KCR)] [[arXiv](https://arxiv.org/pdf/2508.01273)]
 - `WWW 2026` [Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating](https://dl.acm.org/doi/epdf/10.1145/3774904.3792481)  
 Ruofan Wang, **Zijian Huang**, Qiqi Wang, Yuchen Su, Robert Amor, Kaiqi Zhao, Meng-Fen Chiang  
 The ACM Web Conference 2026  
@@ -58,7 +58,8 @@ The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 - University of Auckland Doctoral Scholarships, *2023*
 
 # 💻 Professional Services
-### Conference Reviewer
+### Program Committee Member / Reviewer
+- ACM International Conference on Multimedia (ACM MM)
 - European Conference on Artificial Intelligence (ECAI)
 - Conference on Empirical Methods in Natural Language Processing (EMNLP)
 

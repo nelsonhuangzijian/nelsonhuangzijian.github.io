@@ -9,12 +9,12 @@ layout: none
 # Publications
 - **Disentangling Reasoning Logic to Resolve Explicit Knowledge Conflicts**  
 Xianda Zheng, **Zijian Huang**, Meng-Fen Chiang, Jiamou Liu, Yuan Fang, Michael Witbrock, Kaiqi Zhao  
-Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)  
-[[arXiv](https://arxiv.org/pdf/2508.01273)]
+The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)  
+[[PDF](https://aclanthology.org/2026.acl-long.1451.pdf)] [[Code](https://github.com/zhengxianda/KCR)] [[arXiv](https://arxiv.org/pdf/2508.01273)]
 - **Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating**  
 Ruofan Wang, **Zijian Huang**, Qiqi Wang, Yuchen Su, Robert Amor, Kaiqi Zhao, Meng-Fen Chiang  
 The ACM Web Conference 2026 (WWW 2026)  
-[[PDF](https://dl.acm.org/doi/epdf/10.1145/3774904.3792481)][[Code](https://github.com/vandawn/RMAR_Analogy)]
+[[PDF](https://dl.acm.org/doi/epdf/10.1145/3774904.3792481)] [[Code](https://github.com/vandawn/RMAR_Analogy)]
 - **Words at Play: Benchmarking Audio Pun Understanding in Large Audio-Language Models**    
 Yuchen Su, Shaoxin Zhong, Yonghua Zhu, Ruofan Wang, **Zijian Huang**, Qiqi Wang, Na Zhao, Diana Benavides-Prado, Michael Witbrock  
 arXiv preprint  
