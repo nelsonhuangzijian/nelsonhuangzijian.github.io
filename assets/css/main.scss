@@ -107,3 +107,56 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* View all link in section title */
+.view-all {
+  position: relative;
+  top: -2.9em;
+  text-align: right;
+  height: 0;
+}
+
+.view-all a {
+  font-size: 1em;
+  text-decoration: none;
+}
+
+/* Publication page */
+.publication-item {
+  margin: 1rem 0;
+}
+
+.venue {
+  display: inline-block;
+  margin-bottom: 0.45rem;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid #d9e5f2;
+  border-radius: 999px;
+  background: #f3f7fb;
+  color: #326a9b;
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.publication-card {
+  padding: 0.8rem 1rem;
+  border: 1px solid #d9e5f2;
+  border-radius: 8px;
+}
+
+.publication-card strong:first-of-type {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: #1d2a36;
+  font-size: 1.02rem;
+  line-height: 1.4;
+}
+
+.publication-card a {
+  text-decoration: none;
+}
+
+.publication-card a:hover {
+  text-decoration: underline;
+}
